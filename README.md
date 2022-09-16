@@ -6,7 +6,7 @@ para coletar as cotações atuais do dólar, do euro e do bitcoin
 e utiliza-se a biblioteca tkinter para exibir os valores em
 uma interface gráfica.
 
-<img src="images/tkinter1.png" width="250px" align="center"/>
+<img src="images/tkinter1.PNG" width="250px" align="center"/>
 
 Trata-se de um projeto simples para aprendizado quanto ao
 funcionamento da API mencionada.
