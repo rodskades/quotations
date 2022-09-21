@@ -13,6 +13,12 @@ uma interface gráfica.
 Trata-se de um projeto simples para aprendizado quanto ao
 funcionamento da API mencionada.
 
+Os valores são atualizados automaticamente a cada 30 segundos
+e a janela de cotações sempre sobrepõe outras janelas.
+
+É possível desligar esta opção alterando para 'False' na linha
+44 do arquivo quotations.py.
+
 #### Estrutura do projeto:
     -> quotations.py
     -> README.md
